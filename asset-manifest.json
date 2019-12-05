@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/worm/static/css/main.b2aeb319.chunk.css",
+    "main.js": "/worm/static/js/main.25ff54bd.chunk.js",
+    "main.js.map": "/worm/static/js/main.25ff54bd.chunk.js.map",
+    "runtime-main.js": "/worm/static/js/runtime-main.90401aaa.js",
+    "runtime-main.js.map": "/worm/static/js/runtime-main.90401aaa.js.map",
+    "static/js/2.0e0d6525.chunk.js": "/worm/static/js/2.0e0d6525.chunk.js",
+    "static/js/2.0e0d6525.chunk.js.map": "/worm/static/js/2.0e0d6525.chunk.js.map",
+    "index.html": "/worm/index.html",
+    "precache-manifest.a128f0a5831fbb9a07da3d8949a924ca.js": "/worm/precache-manifest.a128f0a5831fbb9a07da3d8949a924ca.js",
+    "service-worker.js": "/worm/service-worker.js",
+    "static/css/main.b2aeb319.chunk.css.map": "/worm/static/css/main.b2aeb319.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90401aaa.js",
+    "static/js/2.0e0d6525.chunk.js",
+    "static/css/main.b2aeb319.chunk.css",
+    "static/js/main.25ff54bd.chunk.js"
+  ]
+}
