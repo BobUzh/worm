@@ -1,0 +1,39 @@
+.app{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.place {
+    width: 600px;
+    height: 600px;
+    background-color: rgb(148, 148, 148);
+    flex-wrap: wrap;
+}
+.frame {
+    width: 58px;
+    height: 58px;
+    margin: 1px;
+    padding: 0;
+    /* background-color: #fff; */
+}
+.start {
+    
+    width: 600px;
+    height: 600px;
+    background-color: rgb(66, 98, 65);
+}
+.start button, .ready-go button{
+    font-size: 40px;
+}
+.ready-go{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    background-color: tomato;
+    left: 0;
+    top: 170px;
+    filter: unset;
+    opacity: 0.8;
+}
